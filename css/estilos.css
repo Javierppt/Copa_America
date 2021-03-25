@@ -1,0 +1,145 @@
+@font-face {
+  font-family: Ubuntu;
+  src: url(fuentes/4iCv6KVjbNBYlgoCxCvjsGyNPYZvgw.woff2);
+}
+
+@font-face {
+  font-family: Ubuntu1;
+  src: url(fuentes/4iCs6KVjbNBYlgoKfw72nU6AFw.woff2);
+}
+.header1b {
+	background: #092d7d;
+}
+
+.titulos1{
+	font-family: Ubuntu;
+	color: #173562;
+	font-size: 46px;
+	position: relative;
+	width: 100%;
+	margin-top: 2%;
+	padding-left:2%;
+}
+.titulos p{
+	font-family: Ubuntu;
+	color: #173562;
+	font-size: 46px;
+
+	width: 100%;
+	margin-top: 5%;
+	padding-left:2%;
+	padding-top: 22%;
+}
+.header1g {
+	background-image: url("../imagenes/header.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+}
+body {
+	margin: 0;
+	overflow-x: hidden;
+}
+.CopaAmerica {
+	padding-top: 5px;
+	width:15%;
+	position: relative;
+	left: 42%;
+	
+}
+.CopaAmericaFooter{
+	width: 10%;
+	position: relative;
+	left: 40%;
+}
+.CopaAmericaFooterBackground{
+	background-color: #092d7d;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding-left: 6%;
+}
+.conmebolLogo {
+	width: 10%;
+	position: relative;
+	left: 44%;
+}
+#facebook {
+	padding-top: 5px;
+	padding-right: 5px;
+	width:3%;
+	position: relative;
+	float: right;
+}
+#twitter {
+	padding-top: 5px;
+	padding-right: 5px;
+	width:3%;
+	position: relative;
+	float: right;
+	
+}
+#instagram{
+	padding-top: 5px;
+	padding-right: 5px;
+	width:3%;
+	position: relative;
+	float: right;
+}
+#Calendario{
+	width: 89%;
+	position: relative;
+	padding-top: 2%;
+	margin-top:-2%;
+	margin-left: 5%;
+	padding-bottom: 4%;
+	
+}
+.divgrup{
+	box-shadow: 0px 10px 30px rgba(44,62,80,5);
+	width: 25%;
+	height: 30%;
+	float: left;
+	margin-left: 6%;
+	margin-top: 3%;
+	border-radius: 5%;
+	
+
+}
+.divgrup #primerdiv{
+	margin-left: 20%
+
+}
+.divgrup p{
+	font-family: Ubuntu1;
+	color:969696#;
+	font-size: 16px;
+	float: left;
+	padding-left: 26%;
+}
+.filabanderas{
+	width: 100%;
+}
+
+.bandera {
+	width: 20%;
+	float: left;
+	padding-left: 4%;
+	margin: auto;
+	padding-bottom: 25%;
+    padding-top: 20%;
+
+}
+
+.bandera img{
+	width: 100%;
+	float: left;
+	cursor: pointer;
+}
+.subtitulo{
+	font-family: Ubuntu;
+	color: #969696;
+	font-size: 40px;
+	padding-left: 4%;
+	padding-top: 4%;
+}

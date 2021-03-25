@@ -1,0 +1,55 @@
+@font-face {
+  font-family: Ubuntu;
+  src: url(fuentes/4iCv6KVjbNBYlgoCxCvjsGyNPYZvgw.woff2);
+}
+
+@font-face {
+  font-family: Ubuntu1;
+  src: url(fuentes/4iCs6KVjbNBYlgoKfw72nU6AFw.woff2);
+}
+.popup {
+	font-family: Ubuntu1;
+	font-size: 20px;
+	color: white;
+	width: 40%;
+	float: left;
+	padding-bottom: 2%;
+	padding-left: 2%;
+
+
+}
+.popupimg{
+	
+	width:50%;
+	opacity: 1;
+	float: right;
+	display: block;
+	padding-right: 1%;
+	padding-bottom: 0.5%;
+	
+
+}
+.popupfondo{
+	background-color: #102F78;
+	opacity: 0.9;
+	margin-right:5%; 
+	margin-left:5%;
+	padding: 5px;
+	position: absolute;
+	top: 12%;
+}
+.arriba{
+	text-align: right;
+}
+.boton{
+	font-family: Ubuntu1;
+	font-size: 20px;
+	color: white;
+	margin-right: 2%;
+	cursor: pointer;
+}
+.abajo{
+	text-align: right;
+	position: relative;
+	top:10px;
+}
